@@ -2,7 +2,7 @@
 
 @section('container')
 <h1>Halaman Profile Mahasiswa</h1>
-<table class="table table-sm table-hover">
+<table class="table table-sm table-hover mt-5">
     <thead align="center">
         <tr>
             <th>NIM</th>
