@@ -20,13 +20,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link {{ ($tittle === "Home") ? "active" : "" }}" href="/blade-layout/public/home">Home</a>
+          <a class="nav-link {{ ($tittle === "Home") ? "active" : "" }}" href="/blade-laravel/public/home">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" {{ ($tittle === "Profile") ? "active" : "" }} href="/blade-layout/public/profile">Profile</a>
+          <a class="nav-link" {{ ($tittle === "Profile") ? "active" : "" }} href="/blade-laravel/public/profile">Profile</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ ($tittle === "About") ? "active" : "" }}"" href="/blade-layout/public/about">About</a>
+          <a class="nav-link {{ ($tittle === "About") ? "active" : "" }}"" href="/blade-laravel/public/about">About</a>
         </li>
       </ul>
     </div>
